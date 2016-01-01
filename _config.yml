@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Rubine
+subtitle: THINK TWICE, CODE ONCE
 description:
 keywords:
-author: Rubine Lee
-language:
+author: rubine.lee
+# language: zh-CN
 timezone:
 
 # URL
@@ -85,6 +85,7 @@ sequence:
   options:
     css_class: "font-xs"
 
+# slogan: "Keep and carry on..."  
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

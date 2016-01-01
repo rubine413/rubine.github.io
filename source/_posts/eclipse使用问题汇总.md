@@ -5,6 +5,8 @@ description: 记录使用eclipse开发过程中遇到的各种问题
 tags:
   - java
   - eclipse
+categories:
+  - java
 ---
 
 ```sequence
