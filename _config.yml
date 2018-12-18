@@ -75,6 +75,16 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: freemind.386
 
+flowchart:
+  options:
+    line-width: 1
+    font-size: 12
+
+sequence:
+  style: "font-size:12px;"
+  options:
+    css_class: "font-xs"
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
