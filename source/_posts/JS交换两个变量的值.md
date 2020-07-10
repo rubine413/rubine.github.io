@@ -10,7 +10,7 @@ categories: javascript
 ``` javascript
 var a = 3, b = 2;
 var temp;
-temp = a; 
+temp = a;
 a = b;
 b = temp;
 console.log(a, b);  // 2,3
@@ -22,7 +22,7 @@ var a = 3, b = 2;
 // 加法
 b = a + b;
 a = b - a;
-b = b - a; 
+b = b - a;
 console.log(a, b);  // 2,3
 
 // 减法
@@ -58,8 +58,7 @@ console.log(a, b);  // 2,3
 ``` javascript
 var arr = [3, 2, 4, 1];
 // 交换第i个和第k个元素
-// arr[i] = arr.splice(k, 1, arr[0])[0];
+// arr[i] = arr.splice(k, 1, arr[i])[0];
 arr[0] = arr.splice(3, 1, arr[0])[0];
 console.log(arr); // [1, 2, 4, 3]
 ```
-
