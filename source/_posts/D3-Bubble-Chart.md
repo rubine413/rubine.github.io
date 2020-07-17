@@ -8,7 +8,7 @@ tags:
 categories:
   - javascript
   - d3
-toc: true
+toc: false
 ---
 
 {% codepen rubine pogOKvw dark result 480 %}
